@@ -1,14 +1,16 @@
-[
-  {
-    "id": 123,
-    "category": "animal welfare",
-    "title": "Cat Adoption Day",
-    "description": "Find your new feline friend at this event.",
-    "location": "Meow Town",
-    "pets": 1,
-    "extras": {
-      "catering": true,
-      "music": true
+ {
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "pets": 1,
+      "extras": {
+        "catering": true,
+        "music": true
+      }
     }
-  }
-]
+  ]
+}
